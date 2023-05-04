@@ -13,5 +13,5 @@ to *Project > Properties > Java Build Path > Add External JARs* and selecting th
 - pgAdmin: For manually exploring your databases.
 
 ### Running the program:
-- Modify *ConnectToPgJDBC.java* file/class to include your corresponding Database **URL**, **UserName**, and **Password**.
+- Modify *ConnectToPgJDBC.java* file/class to include your corresponding Database **URL**, **UserName**, and **PassWord**.
 - Compile and Run the program with 2 arguments (*names of the tables to join*).
