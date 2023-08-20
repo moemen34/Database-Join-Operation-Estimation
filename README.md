@@ -1,6 +1,6 @@
 # Database-Join-Operation-Estimation
 ## Description:
-This java program connects to a PostgreSQL Database, takes the names of two schemas as arguments, and returns an estimation of the number of tuples resulting from joining them using "NATURAL JOIN".
+This java program connects to a PostgreSQL Database, takes the names of two schemas as arguments, and returns an estimation of the number of tuples resulting from joining them using "NATURAL JOIN".  
 In addition to the **Estimated Join Size**, the program returns the **Actual Join Size** and an **Estimation Error** (*Estimated Join Size
 − Actual Join Size*).
 
