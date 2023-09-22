@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectToPgJDBC {
-	private final String url = "jdbc:postgresql://localhost/Project";
-	private final String user = "postgres";
-	private final String password = "moemen21";
+	private final String url = "jdbc:postgresql://localhost/Project";//your link
+	private final String user = "postgres"; //your user
+	private final String password = "PASSWORD";//your password
 	
 	
 	public Connection connect() {
